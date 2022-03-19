@@ -1,0 +1,92 @@
+{
+  "main": {
+    "id": "5d887840bc7c2d71",
+    "type": "split",
+    "children": [
+      {
+        "id": "2f6b3d39eb79b205",
+        "type": "leaf",
+        "state": {
+          "type": "graph",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f8fc751c5b10e208",
+    "type": "split",
+    "children": [
+      {
+        "id": "2f1307720f782044",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "13bdb646b881bb85",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "947f4ecc3018772d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 182
+  },
+  "right": {
+    "id": "853e811235f2c52e",
+    "type": "split",
+    "children": [
+      {
+        "id": "2383a0b445d4e6d7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0df40ea65439f89d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "2f6b3d39eb79b205",
+  "lastOpenFiles": [
+    "Arduino/Poder.md",
+    "Arduino/Voltaje.md",
+    "Arduino/Corriente.md",
+    "Sueco.md"
+  ]
+}
